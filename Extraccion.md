@@ -2,7 +2,7 @@
 
 ### Partes Interesadas
  - Secretario
- - Programadores
+ - Desarrolladores
  - Médico
 
 ### Datos que gestiona el sistema
@@ -35,14 +35,19 @@
 
 ### Requisitos funcionales (ordenados por prioridad)
 
- - Gestión y planificación de los pacientes
- - Gestión de citas en la pantalla principal
- - Busqueda de un paciente (registro, modificación y borrado)
- - Modificación de pacientes
+ - Dar de alta a un paciente
+ - Añadir una nueva fecha para una cita
+ - Añadir nuevo o nuevos tratamientos
+ - Busqueda de un paciente
+ - Busqueda de una cita en concreto
+ - Modificación de datos de los pacientes 
  - Modificacion de tratamientos
  - Modificación de citas
  - Lista completa de pacientes
  - Dar de alta a un paciente
+ - Eliminar pacientes o datos de los pacientes
+ - Eliminar citas por motivo de cancelacion
+ - Eliminar tratamientos que ya no sean efectivos o necesarios
 
 
 ### Requisitos no funcionales
