@@ -10,10 +10,10 @@
 * Se puede modificiar el tratamiento en caso de que hubiera algun error en algun dato ella
 
 **Flujo principal**:
-1. El secretatio puede modificar la fecha del nuevo tratamiento
-1. El secretatio puede modificar las caracteristicas del tratamiento
-1. El administrador debe ordenar al secretario los cambios que ha hecho en el tratamiento
-1. El secretario debe actualizar las nuevas dosis de los tratamientos
+1. La fecha del nuevo tratamiento puede ser modificada por el personal autorizado
+1. Las caracteristicas del tratamiento pueden ser modificadas por el personal autorizado
+1. Los cambios que se han hecho en el tratamiento quedaran actualizados a medida que avance el paciente
+1. Las nuevas dosis de los tratamientos estaran actualizadas a medida que el paciente avance
 
 
 **Postcondiciones**: 
