@@ -21,6 +21,6 @@
 * Los tratamientos deben quedar actualizados con cada nueva cita
 * El secretario no debe modificar el tratamiento de la cita sin previo aviso del administrador
 
-**FLujos alternativos**:
+**Flujos alternativos**:
 
 * Ninguno
