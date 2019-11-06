@@ -10,13 +10,12 @@
 * El paciente debe estar registrado anteriormente para asignarle un nuevo tratamiento*
 
 **Flujo principal**:
-1. El secretario desea introducir un nuevo tratamiento
-1. El secretario abre el cuadro de diálogo de búsqueda en el menú principal
-1. El secretario introduce los datos del paciente
-1. El secretario introduce la dosis del medicamento
-1. El secretario introduce el inicio y fin del tratamiento
-1. El secretatio introduce tratamientos compatibles y contraindicaciones
-1. El secretatio introduce patologías anteriores y posibles alergías del paciente
+1. El nuevo tratamiento introducido queda guardado en los datos del tratamiento
+1. Existe un cuadro de diálogo de búsqueda en el menú principal para mayor rapidez en encontrar un pacient
+1. La dosis del medicamento introducida queda guardada en los datos del tratamiento
+1. El inicio y fin del tratamiento introducido quedan guardados en los datos del tratamiento
+1. Los tratamientos compatibles y contraindicaciones introducidos quedan guardadas en los datos del tratamiento
+1. Las patologías anteriores y posibles alergías del paciente introducidas quedan guardadas en los datos del tratamiento
 
 
 **Postcondiciones**: 
