@@ -10,10 +10,10 @@
 * Se puede modificiar la cita en caso de que hubiera algun error en algun dato ella
 
 **Flujo principal**:
-1. El secretatio puede modificar la fecha de la cita
-1. El secretatio puede modificar las caracteristicas de esa cita
-1. El administrador debe ver la cita actualizada cuando vuelva a ver a su paciente
-1. El secretario debe actualizar el motivo de cada cita 
+1. La fecha de la cita puede ser modificada por algun problema previo
+1. Las caracteristicas de esa cita pueden ser modificadas debido a algun cambio
+1. La cita estara actualizada cuando el paciente tenga otra nueva cita
+1. El motivo de cada cita quedara actualizado
 
 
 **Postcondiciones**: 
