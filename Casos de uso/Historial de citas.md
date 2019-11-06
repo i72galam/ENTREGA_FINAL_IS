@@ -13,10 +13,10 @@ y por ultimo, las citas anterioes. Se podra tambien buscar a los pacientes por s
 
 **Flujo principal**:
 1. La lista de pacientes permanecera con un orden ya sea por orden alfabetico o por cita mas reciente
-1. El administrador podra buscar por nombre y apellidos a los pacientes
-1. El administrador podra ver todos los datos del paciente
-1. El administrador podra ver la ultima cita que tuvo el paciente
-1. El administrador no podra modificar el historial de citas
+1. Existe una busqueda posible por nombre y apellidos de los pacientes
+1. Todos los datos del paciente quedan guardados en el sistema para su posterior visita
+1. La ultima cita que tuvo el paciente sera visible para el personal autorizado
+1. El historial de citas no podra ser modificado
 
 **Postcondiciones**:
 
