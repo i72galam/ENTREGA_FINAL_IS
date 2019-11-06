@@ -21,6 +21,6 @@
 * La cita tiene que quedar con todas sus caracteristicas rellenas
 * No se podra guardar una cita incompleta
 
-**FLujos alternativos**:
+**Flujos alternativos**:
 
 * Ninguno
