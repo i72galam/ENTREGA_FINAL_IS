@@ -12,12 +12,13 @@
 * No puedo existir una cita a la misma fecha y hora
 
 **Flujo principal**:
-1. El secretario desea introducir una nueva cita
-1. El secretario abre el cuadro de diálogo de búsqueda en el menú principal
-1. El secretario introduce el nombre
-1. El secretario introduce el numero de telefono
-1. El secretatio introduce el correo electronico
-1. El secretatio introduce la fecha y la hora.
+1. La mision es introducir una nueva cita
+1. Habrá un cuadro de diálogo de búsqueda en el menú principal
+1. El nombre introducido queda guardado en la base de datos
+1. El nombre introducido queda guardado en la base de datos
+1. El numero de telefono introducido queda guardado en la base de datos
+1. El correo electronico introducido queda guardado en la base de datos
+1. La fecha y hora aparece al guardar la nueva cita
 
 
 **Postcondiciones**: 
