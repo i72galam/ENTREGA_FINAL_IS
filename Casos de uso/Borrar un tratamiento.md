@@ -10,10 +10,10 @@
 * El tratamiento debe haber finalizado para poder ser archivado
 
 **Flujo principal**:
-1. El secretario desea introducir un nuevo tratamiento
-1. El secretario abre el cuadro de diálogo de búsqueda en el menú principal
-1. El secretario borra el tratamiento 
-1. El secretario confirma que desea que el tratamiento pase al historial
+1. El nuevo tratamiento introducido queda guardado en el sistema
+1. Existe un cuadro de diálogo de búsqueda en el menú principal para buscar el tratamiento
+1. Cualquier tratamiento se puede borrar
+1. En el historial quedan guardados todos y cada uno de los tratamientos de los pacientes
 
 
 **Postcondiciones**: 
