@@ -20,6 +20,6 @@
 
 * El tratamiento se debe encontrar en el historial cuando haya terminado el proceso
 
-**FLujos alternativos**:
+**Flujos alternativos**:
 
 * Si el paciente no esta registrado, se lanzará un mensaje de alerta. 
