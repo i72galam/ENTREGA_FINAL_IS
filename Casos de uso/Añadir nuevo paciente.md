@@ -26,6 +26,6 @@
 * Estos datos estan a disposicion del administrador
 
 
-**FLujos alternativos**:
+**Flujos alternativos**:
 
 * Ninguno
