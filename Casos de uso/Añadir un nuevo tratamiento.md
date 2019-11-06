@@ -21,6 +21,6 @@
 
 **Postcondiciones**: 
 
-**FLujos alternativos**:
+**Flujos alternativos**:
 
 * Si el paciente no esta registrado, se lanzará un mensaje de alerta. 
