@@ -14,8 +14,7 @@
 **Flujo principal**:
 1. La mision es introducir una nueva cita
 1. Habrá un cuadro de diálogo de búsqueda en el menú principal
-1. El nombre introducido queda guardado en la base de datos
-1. El nombre introducido queda guardado en la base de datos
+1. El nombre y apellidos introducido queda guardado en la base de datos
 1. El numero de telefono introducido queda guardado en la base de datos
 1. El correo electronico introducido queda guardado en la base de datos
 1. La fecha y hora aparece al guardar la nueva cita
