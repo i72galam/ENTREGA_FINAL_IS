@@ -12,7 +12,7 @@
 **Flujo principal**:
 1. El nuevo tratamiento introducido queda guardado en el sistema
 1. Existe un cuadro de diálogo de búsqueda en el menú principal para buscar el tratamiento
-1. Cualquier tratamiento se puede borrar
+1. Cualquier tratamiento se puede cancelar
 1. En el historial quedan guardados todos y cada uno de los tratamientos de los pacientes
 
 
