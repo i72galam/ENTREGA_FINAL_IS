@@ -2,7 +2,7 @@
 
 ### Partes Interesadas
  - Secretario
- - Programadores
+ - Desarrolladores
  - Médico
 
 ### Datos que gestiona el sistema
@@ -43,6 +43,8 @@
  - Modificación de citas
  - Lista completa de pacientes
  - Dar de alta a un paciente
+ - Eliminacion de citas
+ - Eliminacion de pacientes
 
 
 ### Requisitos no funcionales
