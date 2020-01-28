@@ -1,4 +1,4 @@
-## Formatear BD
+## Borrar paciente
 
 **Descripcion:** Borra todos los datos almacenados en la base de datos
 
