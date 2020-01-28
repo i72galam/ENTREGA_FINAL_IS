@@ -2,7 +2,7 @@
 
 ### Partes Interesadas
  - Secretario
- - Programadores
+ - Desarrolladores
  - Médico
 
 ### Datos que gestiona el sistema
